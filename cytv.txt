@@ -12,6 +12,7 @@ u猫,http://umao.ml/api.php/provide/vod/at/xml,解析
 解析1,https://jf.4z.cm/jx/?url=
 Parwix解析,https://vip.parwix.com:4433/player/?url=
 虾米,https://jx.xmflv.com/?url=
+BL,https://vip.bljiex.com/?v=
 结束
 直播：
 【分类头】一点点-CCTV-卫视【分类尾】
