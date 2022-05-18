@@ -1,17 +1,12 @@
-//【黑客帝国】特殊更新2022.4.30 JavaScrip for Public
 ###
+//【黑客帝国】特殊更新2022.4.30 JavaScrip for Public
 {
-
-//----------------------------------------------------个人包---------------------------------------------------- 
-"wallpaper":"https://i.ibb.co/9rcmg7n/cat.jpg",
 //原【黑客帝国】个人包→已失效(因gitee限制访问)
 //"spider":"https://gitee.com/samhorse/BiuBiu/raw/master/custom_spider.jar"
 //【猫影视-官方→共享包】【国内镜像】→
 "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 
 "sites":[
-
-
 //----------------------------------------------------站点数据在JAR包里----------------------------------------------------
 {"key":"csp_Buka","name":"真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":0,"filterable":1},
 {"key":"csp_Nekk","name":"9E爬虫","type":3,"api":"csp_Nekk","searchable":1,"quickSearch":0,"filterable":1},
@@ -330,4 +325,6 @@
 ]
 }
 ],
+ 
+
 }
